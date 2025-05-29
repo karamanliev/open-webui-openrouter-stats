@@ -1,4 +1,4 @@
-# Open WebUI OpenRouter Stats & Cost tracking
+# OpenRouter Stats & Cost tracking
 Filter function for Open WebUI, which displays stats and cost tracking when using OpenRouter connection.
 
-Uses [usage accounting](https://openrouter.ai/docs/use-cases/usage-accounting) which OpenRouter enables after sending the updated user input.
+Utilizes [usage accounting](https://openrouter.ai/docs/use-cases/usage-accounting) which OpenRouter enables after sending the updated user input. This makes it possible to report the exact cost and remaining credit as shown on the [activity page](https://openrouter.ai/activity) on the OpenRouter dashboard.
